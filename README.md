@@ -29,7 +29,6 @@
   <br/>
   <h3>Back End ⚙️</h3>
    <img aling="center" alt="CSS3" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-   <img aling="center" alt="CSS3" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
    <img aling="center" alt="CSS3" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
    <img aling="center" alt="CSS3" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
    <img aling="center" alt="CSS3" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
